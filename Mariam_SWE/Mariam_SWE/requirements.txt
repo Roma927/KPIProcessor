@@ -1,0 +1,21 @@
+# Django for the main web framework
+Django>=3.2,<4.0
+
+# Django REST Framework for API creation
+djangorestframework
+
+# drf-yasg for Swagger documentation
+drf-yasg
+
+# SQLite for database management
+sqlite3
+
+# Regex support for custom interpreters
+regex
+
+# Pytest for unit testing
+pytest
+pytest-django
+
+# Add any additional packages if required by other files, such as:
+# json, os, or any custom processing needs.
