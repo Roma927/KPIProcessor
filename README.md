@@ -18,16 +18,13 @@ my_project/ ├── kpi_app/ # Django app for KPI management ├── interpr
    git clone https://github.com/Roma927/KPIProcessor
    cd KPIProcessor
 
-2. Install Requirements:
-pip install -r requirements.txt
-
-3. Apply Migrations:
+2. Apply Migrations:
 python manage.py migrate
 
-4. Run the Server:
+3. Run the Server:
 python manage.py runserver
 
-5. Access Swagger API Documentation:
+4. Access Swagger API Documentation:
 Go to http://127.0.0.1:8000/swagger/.
 
 ## Usage
