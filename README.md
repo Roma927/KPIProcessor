@@ -15,8 +15,8 @@ my_project/ ├── kpi_app/ # Django app for KPI management ├── interpr
 ## Setup Instructions
 
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/django-kpi-sensor-processor.git
-   cd django-kpi-sensor-processor
+   git clone https://github.com/Roma927/KPIProcessor
+   cd KPIProcessor
 
 2. Install Requirements:
 pip install -r requirements.txt
